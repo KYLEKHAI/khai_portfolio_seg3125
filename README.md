@@ -2,4 +2,4 @@
 
 Portfolio showcase for SEG3125
 
-Access the site here: kylekhai-seg3125-a1.netlify.app
+Access the site here: https://kylekhai-seg3125-a1.netlify.app/
